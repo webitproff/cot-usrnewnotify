@@ -1,11 +1,11 @@
 # User New Notify Plugin for Cotonti Siena
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 [![Version](https://img.shields.io/badge/version-2.2.8-green.svg)](https://github.com/webitproff/usrnewnotify/releases)
-[![Cotonti Compatibility](https://img.shields.io/badge/Cotonti_Siena-0.9.26-orange.svg)](https://www.cotonti.com/)
+[![Cotonti Compatibility](https://img.shields.io/badge/Cotonti_Siena-0.9.26-orange.svg)](https://github.com/Cotonti/Cotonti)
 [![PHP](https://img.shields.io/badge/PHP-8.4-blueviolet.svg)](https://www.php.net/releases/8_4_0.php)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 
-**User New Notify** is a plugin for Cotonti Siena CMF that sends email notifications to administrators about new user registrations and provides an admin panel interface for viewing registration logs with filtering and search capabilities. The plugin supports both text and HTML notification formats, database logging, and displays detailed user information, including device, browser, and country.
+**User New Notify** is a plugin for [Cotonti Siena CMF](https://github.com/Cotonti/Cotonti) that sends email notifications to administrators about new user registrations and provides an admin panel interface for viewing registration logs with filtering and search capabilities. The plugin supports both text and HTML notification formats, database logging, and displays detailed user information, including device, browser, and country.
 
 ## Key Features
 - Sends email notifications to administrator(s) upon new user registration and email confirmation.
